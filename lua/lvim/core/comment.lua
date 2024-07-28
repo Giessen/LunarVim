@@ -1,6 +1,6 @@
 local M = {}
 
-function M.config()n
+function M.config()
   lvim.builtin.comment = {
     active = true,
     on_config_done = nil,
